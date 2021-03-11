@@ -1,3 +1,2 @@
-test serwera = serwer 1
-test serwera 2 = serwer 2
-test serwera 3 = serwer 3
+Wirtualna Polska = https://www.wp.pl/
+Interia = https://www.interia.pl/
