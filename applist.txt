@@ -1,0 +1,8 @@
+Cyfrowy Baron=http://cyfbar.republika.pl
+e-mail=cyfrowy_baron@orange.pl
+wiek=nieznany
+wykszta³cenie=wiedza tajemna
+zamieszka³y miasto=P³oñsk
+adres=top secret
+telefon kom.:=506 115 671
+testowa kolumna=sprawdzam
