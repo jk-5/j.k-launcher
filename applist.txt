@@ -1,2 +1,2 @@
-Wirtualna Polska = www.wp.pl/
-Interia = www.interia.pl/
+Wirtualna Polska = https://www.wp.pl
+Interia = https://www.interia.pl
