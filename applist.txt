@@ -36,4 +36,3 @@ GOG GALAXY 2.0 = https://www.gog.com/galaxy
 Install Creator Pro = https://www.clickteam.com/install-creator-2-pro-unreg
 IObit Uninstaller = https://www.iobit.com/pl/advanceduninstaller.php
 Total Commander = https://www.ghisler.com/download.htm
-
