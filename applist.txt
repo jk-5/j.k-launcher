@@ -1,3 +1,4 @@
+--- Podstawowe --- = https://www.google.com/
 Google Chrome = https://www.google.com/intl/pl_pl/chrome/
 Microsoft Office = https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/pl-PL/ProPlus2019Retail.img
 Adobe Acrobat Reader DC = https://get.adobe.com/pl/reader/
@@ -6,6 +7,7 @@ IrfanView spolszczenie = https://www.irfanview.com/languages.htm
 IrfanView Plugins = https://www.irfanview.com/64bit.htm
 K-Lite Codec Pack Mega = https://codecguide.com/download_k-lite_codec_pack_mega.htm
 WinRAR x64 PL = https://www.win-rar.com/download.html?L=0
+--- Opcjonalne --- = https://www.google.com/
 TeamViewer = https://www.teamviewer.com/pl/
 OBS Studio = https://obsproject.com/download
 Notepad++ = https://notepad-plus-plus.org/downloads/
