@@ -7,7 +7,6 @@ IrfanView spolszczenie = https://www.irfanview.com/languages.htm
 IrfanView Plugins = https://www.irfanview.com/64bit.htm
 K-Lite Codec Pack Mega = https://codecguide.com/download_k-lite_codec_pack_mega.htm
 WinRAR x64 PL = https://www.win-rar.com/download.html?L=0
-
 ---------- Opcjonalne ---------- = https://www.google.com/
 TeamViewer = https://www.teamviewer.com/pl/
 OBS Studio = https://obsproject.com/download
